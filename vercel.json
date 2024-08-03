@@ -9,6 +9,6 @@
             "src": "/(.*)",
             "dest": "mysite/wsgi.py"
         }
-    ],
-    "ignore": [".git", "node_modules", "venv", "__pycache__", "*.log", "*.md"]
+    ]
+    
 }
